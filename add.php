@@ -103,5 +103,6 @@ if($result){
 			<input type="submit" class="button" value="Add free time"/>
 		</form>
 	</div>
+	<?php echo "test"; ?>
 </div>
 </body>
